@@ -5,9 +5,8 @@ Este projeto é uma aplicação Java que implementa uma agenda de contatos, perm
 1. [Funcionalidades](#%EF%B8%8F-funcionalidades)
 2. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 3. [Pré-requisitos](#-pré-requisitos)
-4. [Estrutura do Projeto](#-estruturas-do-projeto)
-5. [Instalação](#-instalação)
-6. [Autor](#-autor)
+4. [Instalação](#-instalação)
+5. [Autor](#-autor)
 
 ## ⚙️ Funcionalidades
 
@@ -33,7 +32,7 @@ Para executar este projeto, você precisará de:
 * Um servidor de banco de dados MySQL em funcionamento.
 * IDE de sua escolha (Eclipse, IntelliJ, NetBeans, etc.).
 
-🚀 Instalação
+## 🚀 Instalação
 
 1. Clone o repositório:
 
