@@ -3,21 +3,21 @@ Este projeto é uma aplicação Java que implementa uma agenda de contatos, perm
 
 ## 📑 Índice
 1. [Funcionalidades](#)
-2. [Tecnologias Utilizadas](#)
-3. [Pré-requisitos](#)
-4. [Estrutura do Projeto](#)
-5. [Instalação](#)
-6. [Autor](#)
+2. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+3. [Pré-requisitos](#-pré-requisitos)
+4. [Estrutura do Projeto](#-estruturas-do-projeto)
+5. [Instalação](#-instalação)
+6. [Autor](#-autor)
 
 ## ⚙️ Funcionalidades
 
-[X] Inclusão de Contatos: Adiciona novos contatos à agenda.
+- [X] Inclusão de Contatos: Adiciona novos contatos à agenda.
 
-[X] Edição de Contatos: Permite editar informações de contatos existentes.
+- [X] Edição de Contatos: Permite editar informações de contatos existentes.
 
-[X] Exclusão de Contatos: Remove contatos da agenda.
+- [X] Exclusão de Contatos: Remove contatos da agenda.
 
-[X] Listagem de Contatos: Exibe a lista de contatos cadastrados.
+- [X] Listagem de Contatos: Exibe a lista de contatos cadastrados.
 
 ## 🛠 Tecnologias Utilizadas
 
@@ -38,7 +38,7 @@ Para executar este projeto, você precisará de:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-agenda-contatos.git
+git clone https://github.com/smuelp/agenda-contatos.git
 ```
 
 2. Configure o Banco de Dados:
