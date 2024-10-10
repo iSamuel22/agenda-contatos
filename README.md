@@ -2,7 +2,7 @@
 Este projeto é uma aplicação Java que implementa uma agenda de contatos, permitindo o cadastro, edição, exclusão e listagem de contatos. O projeto utiliza o padrão DAO (Data Access Object) para separar a lógica de acesso a dados da lógica de negócios e JDBC (Java Database Connectivity) para realizar operações de banco de dados.
 
 ## 📑 Índice
-1. [Funcionalidades](#)
+1. [Funcionalidades](#%EF%B8%8F-funcionalidades)
 2. [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 3. [Pré-requisitos](#-pré-requisitos)
 4. [Estrutura do Projeto](#-estruturas-do-projeto)
