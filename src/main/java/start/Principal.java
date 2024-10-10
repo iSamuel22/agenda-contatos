@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author lefoly
+ * @author samuel
  */
 public class Principal {
 
