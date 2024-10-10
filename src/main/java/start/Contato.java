@@ -6,7 +6,7 @@ package start;
 
 /**
  *
- * @author lefoly
+ * @author samuel
  */
 public class Contato {
     
